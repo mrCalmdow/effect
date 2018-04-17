@@ -1,0 +1,8 @@
+2018-03-15 00:33:20.369 [Thread-19] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext.doClose(984) - Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5a85c92: startup date [Wed Mar 14 18:59:41 CST 2018]; root of context hierarchy
+2018-03-15 00:33:20.460 [Thread-19] INFO  o.s.c.s.DefaultLifecycleProcessor.stop(358) - Stopping beans in phase 2147483647
+2018-03-15 00:33:20.467 [Thread-19] INFO  o.s.c.s.DefaultLifecycleProcessor.stop(358) - Stopping beans in phase 0
+2018-03-15 00:33:20.473 [Thread-19] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter.destroy(449) - Unregistering JMX-exposed beans on shutdown
+2018-03-15 00:33:20.476 [Thread-19] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter.unregisterBeans(241) - Unregistering JMX-exposed beans
+2018-03-15 00:33:20.479 [Thread-19] INFO  o.s.j.e.a.AnnotationMBeanExporter.destroy(449) - Unregistering JMX-exposed beans on shutdown
+2018-03-15 00:33:20.480 [Thread-19] INFO  o.s.j.e.a.AnnotationMBeanExporter.unregisterBeans(241) - Unregistering JMX-exposed beans
+2018-03-15 00:33:20.488 [Thread-19] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean.destroy(563) - Closing JPA EntityManagerFactory for persistence unit 'default'
